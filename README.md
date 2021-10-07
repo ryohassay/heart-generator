@@ -6,7 +6,7 @@ This uses NumPy library. Install it by
 ```
 pip install numpy
 ```
-or by any other way that is suitable in your environment.
+or by any other way that is suitable in your environment. This program uses the standard module Turtle, which depends on tkinter, tkinter may not work because Tcl/Tk is not installed, which often happens if you are using pyenv.
 
 If you have Python installed on your computer, go to the directory you have cloned this code on Terminal and run
 ```
