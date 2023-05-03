@@ -12,3 +12,9 @@ If you have Python installed on your computer, go to the directory you have clon
 ```
 python main.py
 ```
+
+## How to make it into a package
+```
+pyinstaller main.py --onefile --noconsole
+```
+after installing `pyinstaller` library.
